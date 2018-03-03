@@ -1,0 +1,8 @@
+Initialy we decided to scarpe the required data for candidates and company from indeed platform, we worked on it for around 1.5 hours.
+
+After that based on suggestions from mentors, we decided to create BASE LINE of project first.
+We did brainstorming on how our system should work, what features it requires etc. We have desided to work on 2 models. 
+1. Job Recommendation 
+2. Skills Recommendation 
+
+As of now we have a rough idea of system model, we have note it down on paper. Now we are starting with coding on dummy data.
