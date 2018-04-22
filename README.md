@@ -16,8 +16,3 @@ Developed hybrid model, which is able to do both things. Also as new data of can
 Applied Natural Language Processing to process project description written in CV. After applying NLP, we use statistical analysis of skills. Then we recommend job subdomain for that candidate. This inference is useful for skill recommendation module for other candidates.
 
 Extension of the project: Developing candidate recommendation system for organization.
-
-Team Members:
-  Charmi Chokshi,
-  Divya Dass,
-  Parth Gadoya
