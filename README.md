@@ -1,8 +1,10 @@
 # IngeniousHackathon_Talisman
 
-project idea domain: Data Science
-title: CV Recommendation Model
-Won Grand Prize in this project in the 36-hour hackathon.
+**project idea domain: Data Science**
+
+**title: CV Recommendation Model**
+
+**Won Grand Prize in this project in the 36-hour hackathon.**
 
 Input: Candidate's CV, Target field of the candidate
 Output: Best sub-Job domain for the candidate, Recommendation of required skills for the target field
